@@ -1,0 +1,5 @@
+.main-layout {
+  width: 100%;
+  height: 100%; }
+  .main-layout .child-layout {
+    float: left; }

@@ -1,0 +1,6 @@
+{
+	"PORT": "5000",
+	"BASE_DIR": "./",
+	"TEMPLATE_FOLDER": "views/template",
+	"STATIC_FOLDER": "views/static"
+}

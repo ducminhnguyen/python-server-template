@@ -1,16 +1,13 @@
 This is a template of a Python server.
 I use this template to develop more complex Python server.
 
-	+ Tornado framework
-
-	+ libsass scss compiler
+	- Tornado framework
+	- libsass scss compiler
 
 Todo: 
 
-	+ Post request handling
-
-	+ DB connection
-
-	+ Request to other server
-
-	+ Demo landing page
+	- Read GET/POST parameters, file upload
+	- Post request handling
+	- DB connection
+	- Request to other server
+	- Demo landing page
